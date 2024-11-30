@@ -1,6 +1,6 @@
 class Solution {
 public:
- int minimumTime(vector<vector<int>>& grid) {
+    int minimumTime(vector<vector<int>>& grid) {
         // If both initial moves require more than 1 second, impossible to
         // proceed
         if (grid[0][1] > 1 && grid[1][0] > 1) {
@@ -55,6 +55,5 @@ private:
     bool isValid(vector<vector<bool>>& visited, int row, int col) {
         return row >= 0 && col >= 0 && row < visited.size() &&
                col < visited[0].size() && !visited[row][col];
-        
     }
 };
