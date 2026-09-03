@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0135-candy](https://github.com/RahullSainii/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahullSainii/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/RahullSainii/DSA/tree/master/0135-candy) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
