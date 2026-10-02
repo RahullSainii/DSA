@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahullSainii/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RahullSainii/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RahullSainii/DSA/tree/master/0283-move-zeroes) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahullSainii/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahullSainii/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RahullSainii/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
