@@ -84,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahullSainii/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RahullSainii/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RahullSainii/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RahullSainii/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
