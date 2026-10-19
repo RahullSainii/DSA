@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/RahullSainii/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahullSainii/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RahullSainii/DSA/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RahullSainii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahullSainii/DSA/tree/master/0242-valid-anagram) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahullSainii/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RahullSainii/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahullSainii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahullSainii/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/RahullSainii/DSA/tree/master/0202-happy-number) |
