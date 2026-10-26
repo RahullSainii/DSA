@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RahullSainii/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/RahullSainii/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RahullSainii/DSA/tree/master/0054-spiral-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RahullSainii/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RahullSainii/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahullSainii/DSA/tree/master/0242-valid-anagram) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/RahullSainii/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RahullSainii/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RahullSainii/DSA/tree/master/0088-merge-sorted-array) |
