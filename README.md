@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahullSainii/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/RahullSainii/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahullSainii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/RahullSainii/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RahullSainii/DSA/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RahullSainii/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RahullSainii/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RahullSainii/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/RahullSainii/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahullSainii/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RahullSainii/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahullSainii/DSA/tree/master/0234-palindrome-linked-list) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RahullSainii/DSA/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RahullSainii/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RahullSainii/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
