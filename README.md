@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RahullSainii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RahullSainii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RahullSainii/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/RahullSainii/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RahullSainii/DSA/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahullSainii/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RahullSainii/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/RahullSainii/DSA/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
