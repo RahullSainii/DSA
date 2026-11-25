@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/RahullSainii/DSA/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/RahullSainii/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/RahullSainii/DSA/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/RahullSainii/DSA/tree/master/1321-restaurant-growth) |
 | [1338-queries-quality-and-percentage](https://github.com/RahullSainii/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/RahullSainii/DSA/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/RahullSainii/DSA/tree/master/1390-average-selling-price) |
